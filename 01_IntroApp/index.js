@@ -1,5 +1,5 @@
 let x = 0;
-// log
+// log 
 function DoSomthing() {
     x++;
     console.log("Current number is:" + x);
