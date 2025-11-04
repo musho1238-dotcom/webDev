@@ -1,4 +1,5 @@
 let x = 0;
+// log and
 function DoSomthing() {
     x++;
     console.log("Current number is:" + x);
